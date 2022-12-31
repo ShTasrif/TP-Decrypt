@@ -14,10 +14,11 @@ git clone https://github.com/ShTasrif/TP-Decrypt
 
 ## How to use 
 <h3 align="left">RUN :</h3>
-```bash
+
+````bash
 cd TP-Decrypt
 python main.py
-
+````
 #### Run :
 
 ````bash
