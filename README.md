@@ -34,5 +34,6 @@ tpdec
 </div>
 
 # Screenshot:
-![ezgif-1-35c884a709](https://user-images.githubusercontent.com/85736436/204098295-61b69bc9-8e6b-470a-a6cd-785537a4b00f.gif)
+![IMG_20221231_135758](https://user-images.githubusercontent.com/85736436/210130027-edcfb706-d066-4dd5-bf99-5d3d0dff619f.jpg)
+
 
