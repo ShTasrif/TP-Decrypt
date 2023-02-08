@@ -9,6 +9,7 @@ pkg install python -y
 pkg install git -y
 pkg install ruby -y
 gem install lolcat -y
+pip install Cryptodome
 git clone https://github.com/ShTasrif/TP-Decrypt
 ````
 
